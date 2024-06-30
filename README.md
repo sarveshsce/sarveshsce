@@ -1,6 +1,6 @@
 
 
-👋 Hi, I'm [Your Name], a passionate Full Stack Web Developer with a knack for creating dynamic and responsive web applications. With a strong foundation in both front-end and back-end technologies, I thrive on building seamless user experiences and robust server-side functionalities.
+👋 Hi, I'm Sarvesh Shinde, a passionate Full Stack Web Developer with a knack for creating dynamic and responsive web applications. With a strong foundation in both front-end and back-end technologies, I thrive on building seamless user experiences and robust server-side functionalities.
 
 💼 **Skills & Technologies**:
 - **Front-End**: HTML, CSS, JavaScript, React, Next.js
@@ -21,8 +21,8 @@
 - Enhancing cybersecurity measures in web development
 
 📫 **Get in Touch**:
-- LinkedIn: [Your LinkedIn Profile URL]
-- Email: [Your Email Address]
+- LinkedIn: https://www.linkedin.com/in/sarvesh-shinde-72928b2a7/
+- Email: sarveshshinde915@gmail.com
 
 🚀 **Projects**:
 Check out my repositories to see some of the projects I've been working on!
