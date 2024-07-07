@@ -12,7 +12,6 @@
 🔧 **What I Do**:
 - Develop and maintain full-stack web applications
 - Design and implement scalable and secure APIs
-- Collaborate with cross-functional teams to deliver high-quality software solutions
 - Continuously learn and apply new technologies to enhance my skillset
 
 🌱 **Currently Exploring**:
